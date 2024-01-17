@@ -15,4 +15,3 @@ Ejemplo de gestión de un repositorio de código en Git y cambios en este
 ## Solución de conflictos
 
 Se puede presentar cuando dos o más integrantes modifican las mismas líneas de código en un proyecto
- 
