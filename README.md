@@ -10,9 +10,12 @@ Ejemplo de gestión de un repositorio de código en Git y cambios en este
 
 ## Acciones de Git
 
-1. **Merge:** mezcar ramas con todos sus cambios realizados
-2. **Pull** trae los cambios realizados en la rama actual
-3. **Checkout** trae una rama desde el remoto o cambia de rama localmente
+1. **Clone** clonar un repositorio de código
+2. **Merge:** mezcar ramas con todos sus cambios realizados
+3. **Pull** trae los cambios realizados en la rama actual
+4. **Fetch** trae los cambios en la estructura del repositorio
+5. **Checkout** trae una rama desde el remoto o cambia de rama localmente
+6. **Push** enviar los datos de una rama al remoto
 
 ## Solución de conflictos
 
