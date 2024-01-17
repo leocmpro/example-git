@@ -1,2 +1,3 @@
-# example-git
-Ejemplificación de uso simple de ramas y cambios
+# Git Example
+
+Ejemplo de gestión de un repositorio de código en Git
